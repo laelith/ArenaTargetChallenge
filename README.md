@@ -1,4 +1,4 @@
-Using Unreal Engine 5 for the first time was exciting. I have spent six weeks learning about game development and Unreal Engine, including things like understanding game logic and C++ programming, how to use blueprint, managing 3D assets, making objects interact realistically with physics, and adding cool audio effects. I'm not a master yet, but I've come a long way and look forward to exploring more with Unreal Engine 5. And this is the one of the projects that I have created by watching videos and tutorials.
+Using Unreal Engine 5 for the first time was exciting. I have spent six weeks learning about game development and Unreal Engine, including things like understanding game logic and C++ programming, how to use blueprint, managing 3D assets, making objects interact realistically with physics, and adding audio effects. I have not learned it completely, but I've come a long way and look forward to exploring more with Unreal Engine 5. And this is the one of the projects that I have created.
 
 
 
